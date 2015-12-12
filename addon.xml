@@ -17,9 +17,10 @@
     <description lang="en">Celebrity Gossip and Entertainment News, Covering Celebrity News and Hollywood Rumors. Get All The Latest Gossip at TMZ - Thirty Mile Zone.</description>
     <platform>all</platform>
 	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	<website>https://code.google.com/p/plugin</website>
 	<source>https://github.com/stacked/plugin.video.tmz</source>
-	<forum>http://forum.xbmc.org/showthread.php?tid=55972</forum>
+	<forum>http://forum.kodi.tv/showthread.php?tid=55972</forum>
 	<email>stacked.xbmc@gmail.com</email>
   </extension>
 </addon>
